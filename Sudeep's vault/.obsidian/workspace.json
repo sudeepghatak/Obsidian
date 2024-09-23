@@ -1,0 +1,263 @@
+{
+  "main": {
+    "id": "e1d6446ef35aab2f",
+    "type": "split",
+    "children": [
+      {
+        "id": "e25410e38b3ed9fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe94d8b6a59c2c90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MVP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c9a992c334aaf3ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Copilot Implementation Training Plan.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "51e4413422160630",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Suntory Workshops.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "29878ed310629fd5",
+            "type": "leaf",
+            "state": {
+              "type": "mindmapView",
+              "state": {
+                "file": "Suntory Workshops.md"
+              }
+            }
+          },
+          {
+            "id": "c1ef04e5ffcc48b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Durga Puja 2024 Cultural.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ded789bf8c7814a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Amar moner koner bayre.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "57025b318af147ca",
+            "type": "leaf",
+            "state": {
+              "type": "mindmapView",
+              "state": {
+                "file": "Suntory Workshops.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2f21700e4dd62c8b",
+    "type": "split",
+    "children": [
+      {
+        "id": "0df2c016d6ed730d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "744954587eb995e8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c6884ae4f1366f4e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:Mindmaps",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "58cd63bebf3aa9e5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "72de169871e92842",
+    "type": "split",
+    "children": [
+      {
+        "id": "441609da1a983a41",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d788cf47204509a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Amar moner koner bayre.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4f87d752b437d93c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Amar moner koner bayre.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "02db5d3c485a880e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e123dc349375a30b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Amar moner koner bayre.md"
+              }
+            }
+          },
+          {
+            "id": "fe03cfb7eaed81d5",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "4dbe1af4598a3183",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "ded789bf8c7814a2",
+  "lastOpenFiles": [
+    "Suntory Workshops.md",
+    "Tags/Rabindra Sangeet.md",
+    "Amar moner koner bayre.md",
+    "Durga Puja 2024 Cultural.md",
+    "Excalidraw/Drawing 2024-09-21 20.29.25.excalidraw.md",
+    "Suntory.md",
+    "Tags/Music.md",
+    "My To dos.md",
+    "Knowledge Base.md",
+    "Tags/Copilot.md",
+    "Tags/Mindmaps.md",
+    "Tags/Projects.md",
+    "Copilot Implementation Training Plan.md",
+    "Tags",
+    "MVP.md",
+    "Excalidraw",
+    "Untitled Kanban 1.md",
+    "Untitled Kanban.md",
+    "().md",
+    "Pasted image 20240820152020.png",
+    "Pasted image 20240820152002.png",
+    "2024-08-20.md"
+  ]
+}
